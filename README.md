@@ -5,10 +5,10 @@ HW
 
     1. Beaglebone black
     2. DIY cape:
-    • i2c OLED 0.96” display
-    • HXJ-35 joystick
-    • I2C 0.96” display
-    • Buttons, resistors, buzzer, etc…
+    	• i2c OLED 0.96” display
+    	• HXJ-35 joystick
+    	• I2C 0.96” display
+    	• Buttons, resistors, buzzer, etc…
     
 ![Screenshot](hw.png)
 
