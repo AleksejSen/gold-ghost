@@ -25,7 +25,15 @@ Inspired by:
     • http://exploringbeaglebone.com/ (Darek Molloy)
 
 
+
+
+
 Game play:
+
+
+
+
+
 ![Screenshot](gameplay.png)
 
 	
