@@ -8,7 +8,7 @@ HW
     • HXJ-35 joystick
     • I2C 0.96” display
     • Buttons, resistors, buzzer, etc…
-
+![Screenshot](hw.png)
 
 
 
@@ -26,5 +26,6 @@ Inspired by:
 
 
 Game play:
+![Screenshot](gameplay.png)
 
 	
