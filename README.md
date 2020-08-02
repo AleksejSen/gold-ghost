@@ -21,7 +21,9 @@ HW
 
 SW
 Inspired by: 
+
     • https://github.com/flightcrank/pong 
+    
     • http://exploringbeaglebone.com/ (Darek Molloy)
 
 
